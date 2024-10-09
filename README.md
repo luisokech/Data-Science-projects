@@ -10,7 +10,7 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [Car Price Prediction](https://github.com/luisokech/Data-Science-projects/blob/main/4.%20Car-price-prediction.ipynb): Goal is to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels
 	- [Urban Air Pollution Challenge](https://github.com/luisokech/Data-Science-projects/blob/main/3.%20Urban%20Air%20Pollution%20Challenge.ipynb): creating a model to predict air quality in cities around the world using satellite data. The goal is to use this information to predict PM2.5 particulate matter concentration (a common measure of air quality that normally requires ground-based sensors to measure) every day for each city. The data covers the last three months, spanning hundreds of cities across the globe.
  - 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
 
 - ### Natural Language Processing
 
