@@ -37,4 +37,4 @@ Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/38b24e35-c8ee-4c8f-a37d-6489ec340b61">[chatgpt-ml-challenge-swahili-news-classification](https://github.com/luisokech/Data-Science-projects/blob/main/chatgpt-ml-challenge-swahili-news-classification.ipynb):  Create a model to develop a multi-class classification model to classify news content according to six specific categories.The model can be used by Swahili online platforms to automatically group news according to their categories and help readers find the specific news they want to read. In addition, the model will contribute to a body of work ensuring that Swahili is represented in apps and other online products in future.
 
 
-- _Tools: NLTK, scikit_
+_Tools: NLTK, scikit_
