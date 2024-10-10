@@ -3,8 +3,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - **Email**: [luisokech@gmail.com](luisokech@gmail.com)
 - **LinkedIn**: [linkedin.com/in/luis-okech](www.linkedin.com/in/luis-okech)
-- 
-## Contents
 
 - ### Machine Learning
 
