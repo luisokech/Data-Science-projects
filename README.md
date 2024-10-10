@@ -12,8 +12,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
 #
 #
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/2b77b61d-42f0-423e-9750-c6ecb8ee7515
-">- [Which Debts are Worth the Bank's Effort](https://github.com/luisokech/Data-Science-projects/blob/main/5.%20Which%20Debts%20are%20Worth%20the%20Bank's%20Effort.ipynb): Use statistical analysis to to develop a model or strategy that helps the bank prioritize debt recovery efforts by predicting the likelihood of successful recovery and the potential recovery value. The model should assist in identifying which debts are worth pursuing based on factors like the expected vs. actual recovery amount, the applied recovery strategy, and demographic variables (age, sex).
+
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/2b77b61d-42f0-423e-9750-c6ecb8ee7515">- [Which Debts are Worth the Bank's Effort](https://github.com/luisokech/Data-Science-projects/blob/main/5.%20Which%20Debts%20are%20Worth%20the%20Bank's%20Effort.ipynb): Use statistical analysis to to develop a model or strategy that helps the bank prioritize debt recovery efforts by predicting the likelihood of successful recovery and the potential recovery value. The model should assist in identifying which debts are worth pursuing based on factors like the expected vs. actual recovery amount, the applied recovery strategy, and demographic variables (age, sex).
 
   #
   #
