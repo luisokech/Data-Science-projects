@@ -25,9 +25,11 @@ Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 - ### Natural Language Processing
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/96d14181-a533-4ded-9b9a-adb4f0381ab5">[Airline Tweets Sentiment Analysis](https://github.com/luisokech/Data-Science-projects/blob/main/8.%20Airline%20Tweets%20Sentiment%20Analysis.ipynb): Creating a model to classify tweets into categories such as positive, negative, and neutral to understand how customers feel about their experiences with different airlines.
-
+#
+#
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/f6fe5f13-e2cb-408d-98d2-1eaf2657283d">[Covid-19 tweet classification](https://github.com/luisokech/Data-Science-projects/blob/main/Covid-19%20tweet%20classification.ipynb): Creating a model for 2-way polarity (positive, negative) classification system for Covid-19 tweets
-
+#
+#
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/38b24e35-c8ee-4c8f-a37d-6489ec340b61">[chatgpt-ml-challenge-swahili-news-classification](https://github.com/luisokech/Data-Science-projects/blob/main/chatgpt-ml-challenge-swahili-news-classification.ipynb):  Create a model to develop a multi-class classification model to classify news content according to six specific categories.The model can be used by Swahili online platforms to automatically group news according to their categories and help readers find the specific news they want to read. In addition, the model will contribute to a body of work ensuring that Swahili is represented in apps and other online products in future.
 
 
