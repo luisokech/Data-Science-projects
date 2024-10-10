@@ -21,7 +21,7 @@ Repository containing portfolio of data science projects completed by me for aca
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/9a6aee87-637b-4b96-bdab-0cb460e491e9">[Urban Air Pollution Challenge](https://github.com/luisokech/Data-Science-projects/blob/main/3.%20Urban%20Air%20Pollution%20Challenge.ipynb): creating a model to predict air quality in cities around the world using satellite data. The goal is to use this information to predict PM2.5 particulate matter concentration (a common measure of air quality that normally requires ground-based sensors to measure) every day for each city. The data covers the last three months, spanning hundreds of cities across the globe.
  
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
-
+#
 ### Natural Language Processing
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/96d14181-a533-4ded-9b9a-adb4f0381ab5">[Airline Tweets Sentiment Analysis](https://github.com/luisokech/Data-Science-projects/blob/main/8.%20Airline%20Tweets%20Sentiment%20Analysis.ipynb): Creating a model to classify tweets into categories such as positive, negative, and neutral to understand how customers feel about their experiences with different airlines.
