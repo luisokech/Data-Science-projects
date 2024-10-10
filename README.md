@@ -6,7 +6,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Machine Learning
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/2a123388-0665-46c5-bad4-a2e95a6d5ca1">	- [Financial Inclusion](https://github.com/luisokech/Data-Science-projects/blob/main/1.%20Financial%20Inclusion.ipynb): A model to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security.
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/c68eb42d-b47a-4a00-ac42-a1c5e7ba163e">	- [Financial Inclusion](https://github.com/luisokech/Data-Science-projects/blob/main/1.%20Financial%20Inclusion.ipynb): A model to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security.
 
 #
 #
