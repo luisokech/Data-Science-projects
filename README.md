@@ -30,6 +30,7 @@ Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 #
 #
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/f6fe5f13-e2cb-408d-98d2-1eaf2657283d">[Covid-19 tweet classification](https://github.com/luisokech/Data-Science-projects/blob/main/Covid-19%20tweet%20classification.ipynb): Creating a model for 2-way polarity (positive, negative) classification system for Covid-19 tweets
+
 #
 #
 #
