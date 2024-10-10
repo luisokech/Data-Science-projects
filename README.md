@@ -4,7 +4,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - **Email**: [luisokech@gmail.com](luisokech@gmail.com)
 - **LinkedIn**: [linkedin.com/in/luis-okech](www.linkedin.com/in/luis-okech)
 
-- ### Machine Learning
+### Machine Learning
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/c68eb42d-b47a-4a00-ac42-a1c5e7ba163e">[Financial Inclusion](https://github.com/luisokech/Data-Science-projects/blob/main/1.%20Financial%20Inclusion.ipynb): A model to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security.
 
@@ -22,7 +22,7 @@ Repository containing portfolio of data science projects completed by me for aca
  
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
 
-- ### Natural Language Processing
+### Natural Language Processing
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/96d14181-a533-4ded-9b9a-adb4f0381ab5">[Airline Tweets Sentiment Analysis](https://github.com/luisokech/Data-Science-projects/blob/main/8.%20Airline%20Tweets%20Sentiment%20Analysis.ipynb): Creating a model to classify tweets into categories such as positive, negative, and neutral to understand how customers feel about their experiences with different airlines.
 
