@@ -9,7 +9,7 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [Which Debts are Worth the Bank's Effort](https://github.com/luisokech/Data-Science-projects/blob/main/5.%20Which%20Debts%20are%20Worth%20the%20Bank's%20Effort.ipynb): Use statistical analysis to to develop a model or strategy that helps the bank prioritize debt recovery efforts by predicting the likelihood of successful recovery and the potential recovery value. The model should assist in identifying which debts are worth pursuing based on factors like the expected vs. actual recovery amount, the applied recovery strategy, and demographic variables (age, sex).
 	- [Car Price Prediction](https://github.com/luisokech/Data-Science-projects/blob/main/4.%20Car-price-prediction.ipynb): Goal is to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels
 	- [Urban Air Pollution Challenge](https://github.com/luisokech/Data-Science-projects/blob/main/3.%20Urban%20Air%20Pollution%20Challenge.ipynb): creating a model to predict air quality in cities around the world using satellite data. The goal is to use this information to predict PM2.5 particulate matter concentration (a common measure of air quality that normally requires ground-based sensors to measure) every day for each city. The data covers the last three months, spanning hundreds of cities across the globe.
- - 
+ 
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
 
 - ### Natural Language Processing
