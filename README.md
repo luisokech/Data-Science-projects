@@ -10,6 +10,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/2a123388-0665-46c5-bad4-a2e95a6d5ca1">	- [Financial Inclusion](https://github.com/luisokech/Data-Science-projects/blob/main/1.%20Financial%20Inclusion.ipynb): A model to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security.
 
+
 #
 
 - [Which Debts are Worth the Bank's Effort](https://github.com/luisokech/Data-Science-projects/blob/main/5.%20Which%20Debts%20are%20Worth%20the%20Bank's%20Effort.ipynb): Use statistical analysis to to develop a model or strategy that helps the bank prioritize debt recovery efforts by predicting the likelihood of successful recovery and the potential recovery value. The model should assist in identifying which debts are worth pursuing based on factors like the expected vs. actual recovery amount, the applied recovery strategy, and demographic variables (age, sex).
