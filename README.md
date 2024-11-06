@@ -38,3 +38,21 @@ Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 
 
 _Tools: NLTK, scikit_
+#
+### Computer Vision
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/96b863c1-9cef-45aa-b21a-4e6607f13fe2">[Sea Turtle Face Detection](https://github.com/luisokech/Data-Science-projects/blob/main/Local_Ocean_Conservation_Sea_Turtle_Face_Detection.ipynb):  Create a machine-learning model that can take in an image of a sea turtle and output the position of a bounding box around that all-important scale pattern. This will be used to develop a tool that can crop a given image to show only the important facial region, reducing the chances of an accidental match down the line.
+
+#
+#
+#
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/aae3e625-2a37-4dbb-8cbd-38a9207fede1">[Spot the mask](https://github.com/luisokech/Data-Science-projects/blob/main/Spot_the_Mask_with_FastAI_DH-mine.ipynb):  Create an image classification machine learning model to accurately predict the likelihood that an image contains a person wearing a face mask, or not. The machine learning solution will help policymakers, law enforcement, hospitals, and even commercial businesses ensure that masks are being worn appropriately in public. These solutions can help in the battle to reduce community transmission of COVID-19.
+
+#
+#
+#
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/bd4964ce-685d-4ffa-a006-712683a6658c">[Road Segment Identification](https://github.com/luisokech/Data-Science-projects/blob/main/Spot_the_Mask_with_FastAI_DH-mine.ipynb):  Create an image classification machine learning model to identify whether an image contains a road segment or not. Dry river beds, railway tracks and power lines could look like roads. This will allow government officials to focus on areas they might need to send an official to confirm the road placement, and add it to the government’s maps and road networks.
+
+#
+#
+#
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/924a85c7-9b6d-45e6-92ec-9b414f71d175">[Crop Damage Classification](https://github.com/luisokech/Data-Science-projects/blob/main/CGIAR_Crop_Damage_Classification.ipynb):  Create a machine-learning algorithm to classify crops into categories: Good growth (G), Drought (DR), Nutrient Deficient (ND), Weed (WD), and Other (including pest, disease or wind damage). By knowing what type of damage a crop experiences, images can be fed into a model to indicate whether a crop was damaged, and needs to be evaluated for insurance payouts.
