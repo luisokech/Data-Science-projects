@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks
+Repository containing portfolio of data science projects completed by me for academic and self learning. Presented in the form of Jupyter notebooks
 
 - **Email**: [luisokech@gmail.com](luisokech@gmail.com)
 - **LinkedIn**: [linkedin.com/in/luis-okech](www.linkedin.com/in/luis-okech)
