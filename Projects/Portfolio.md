@@ -7,6 +7,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ### Machine Learning
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/459c9ec0-a638-4242-b8bb-b1f8a184a21d">[Hypothesis Testing in Healthcare: Drug Safety](https://github.com/luisokech/Data-Analysis-projects/blob/main/Hypothesis%20Testing%20in%20Healthcare%20Drug%20Safety.ipynb): Perform hypothesis tests to determine if the adverse effects of a pharmaceutical drug are significant! You'll conduct several hypothesis tests using Python to determine if the adverse reactions of a hypothetical drug are significant. You'll also check if factors such as age significantly influence the adverse reactions.
 #
+#
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/c68eb42d-b47a-4a00-ac42-a1c5e7ba163e">[Financial Inclusion](https://github.com/luisokech/Data-Science-projects/blob/main/1.%20Financial%20Inclusion.ipynb): A model to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security.
 
