@@ -57,6 +57,8 @@ _Tools: NLTK, scikit_
 
 #
 #
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/924a85c7-9b6d-45e6-92ec-9b414f71d175">[Crop Damage Classification](https://github.com/luisokech/Data-Science-projects/blob/main/CGIAR_Crop_Damage_Classification.ipynb):  Create a machine-learning algorithm to classify crops into categories: Good growth (G), Drought (DR), Nutrient Deficient (ND), Weed (WD), and Other (including pest, disease or wind damage). By knowing what type of damage a crop experiences, images can be fed into a model to indicate whether a crop was damaged, and needs to be evaluated for insurance payouts.
+#
 ## Statistics
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/459c9ec0-a638-4242-b8bb-b1f8a184a21d">[Hypothesis Testing in Healthcare: Drug Safety](https://github.com/luisokech/Data-Analysis-projects/blob/main/Hypothesis%20Testing%20in%20Healthcare%20Drug%20Safety.ipynb): Perform hypothesis tests to determine if the adverse effects of a pharmaceutical drug are significant! You'll conduct several hypothesis tests using Python to determine if the adverse reactions of a hypothetical drug are significant. You'll also check if factors such as age significantly influence the adverse reactions.
 #
@@ -88,4 +90,3 @@ __Python__
   ![Screenshot 2024-09-21 164205](https://github.com/user-attachments/assets/c59781f0-92ba-4a2d-86b2-f824f4577764)
 
 #
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/924a85c7-9b6d-45e6-92ec-9b414f71d175">[Crop Damage Classification](https://github.com/luisokech/Data-Science-projects/blob/main/CGIAR_Crop_Damage_Classification.ipynb):  Create a machine-learning algorithm to classify crops into categories: Good growth (G), Drought (DR), Nutrient Deficient (ND), Weed (WD), and Other (including pest, disease or wind damage). By knowing what type of damage a crop experiences, images can be fed into a model to indicate whether a crop was damaged, and needs to be evaluated for insurance payouts.
